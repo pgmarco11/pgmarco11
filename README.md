@@ -10,6 +10,13 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 * [Custom Show Manager](https://github.com/pgmarco11/custom-show-manager) - A plugin to manage a show post type and display the shows on a page or post in different ways
 * [Event Speakers](https://github.com/pgmarco11/event-speakers-videos) - A plug-in to add speakers and videos to a specific event in the Event Calendar plug-in.
 
+#### WordPress Themes
+* [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom WordPress theme was made for a small non-profit theatre.
+* [Moving Business](https://github.com/pgmarco11/themes/tree/master/arpingroup). - This custom theme was created for a moving business when I migrated their site to WordPress.
+* [Gutnenberg Theme](https://github.com/pgmarco11/themes/tree/master/udemy). - This theme uses the Gutenberg Blocks and the WordPress theme editor.
+* [Elementor Theme](https://github.com/pgmarco11/themes/tree/master/hello-elementor). - This theme uses the Elememntor Page Builder, and is a work in progress.
+  
+
 #### React Apps
 
 * [Crypto Portfolio App](https://github.com/pgmarco11/crypto-portoflio-app) - An app to keep track of your portfolio value, provide technical analysis of coins, and provide crypto news. It retrieves various API data to analysis coins, a work in progress.
