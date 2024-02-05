@@ -14,7 +14,6 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 * [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom WordPress theme was made for a small non-profit theatre.
 * [Moving Business](https://github.com/pgmarco11/themes/tree/master/arpingroup). - This custom theme was created for a moving business when I migrated their site to WordPress.
 * [Gutenberg Theme](https://github.com/pgmarco11/themes/tree/master/udemy). - This theme uses the Gutenberg Blocks and the WordPress theme editor.
-* [Elementor Theme](https://github.com/pgmarco11/themes/tree/master/hello-elementor). - This theme uses the Elememntor Page Builder, and is a work in progress.
   
 
 #### React Apps
