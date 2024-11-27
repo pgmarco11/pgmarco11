@@ -11,7 +11,7 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 * [Event Speakers](https://github.com/pgmarco11/event-speakers-videos) - A plug-in to add speakers and videos to a specific event in the Event Calendar plug-in.
 
 #### WordPress Themes
-* [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom WordPress theme was made for a small non-profit theatre.
+* [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom Bootstrap WordPress theme was made for a small non-profit theatre.
 * [Moving Business](https://github.com/pgmarco11/themes/tree/master/arpingroup). - This custom theme was created for a moving business when I migrated their site to WordPress.
 * [Gutenberg Theme](https://github.com/pgmarco11/themes/tree/master/udemy). - This theme uses the Gutenberg Blocks and the WordPress theme editor.
   
