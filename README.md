@@ -23,4 +23,4 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 
 #### Node APIs
 
-* [Crypto Portfolio API](https://github.com/pgmarco11/crypto-portfolio-api) - A node development API for the crypto portfolio that uses Json-server 
+* [Crypto Portfolio API](https://github.com/pgmarco11/crypto-portfolio-api) - A node development API for the crypto portfolio that uses Express to read/write json 
