@@ -7,7 +7,7 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 #### WordPress Plugins
 
 * [Solar Savings Calculator](https://github.com/pgmarco11/solar-savings) - This plugin creates a visualization of the impact of solar savings for an impact investor company and displays it on the page or post.
-* [Custom Show Manager](https://github.com/pgmarco11/custom-show-manager) - A plugin to manage a show post type and display the shows on a page or post in different ways
+* [Block Addition](https://github.com/pgmarco11/block-additions) - A plugin to add additional blocks for Gutenberg
 * [Event Speakers](https://github.com/pgmarco11/event-speakers-videos) - A plug-in to add speakers and videos to a specific event in the Event Calendar plug-in.
 
 #### WordPress Themes
