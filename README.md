@@ -13,7 +13,7 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 * [Show Manager](https://github.com/pgmarco11/show-manager) - A plug-in to manage shows and events with a custom post type, taxonomies, and shortcodes.
 
 #### WordPress Themes
-* [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom Bootstrap WordPress theme was made for a small non-profit theatre.
+* [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/arcticplayhouse). - This custom Bootstrap WordPress theme was made for a small non-profit theatre.
 * [Moving Business](https://github.com/pgmarco11/themes/tree/master/arpingroup). - This custom theme was created for a moving business when I migrated their site to WordPress.
 * [Gutenberg Theme](https://github.com/pgmarco11/themes/tree/master/udemy). - This theme uses the Additional Gutenberg Blocks plugin and the new theme editor.
   
