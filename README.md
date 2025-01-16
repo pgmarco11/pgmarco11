@@ -9,6 +9,7 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 * [Solar Savings Calculator](https://github.com/pgmarco11/solar-savings) - This plugin creates a visualization of the impact of solar savings for an impact investor company and displays it on the page or post.
 * [Block Additions](https://github.com/pgmarco11/block-additions) - A plugin to add additional blocks for Gutenberg
 * [Event Speakers](https://github.com/pgmarco11/event-speakers-videos) - A plug-in to add speakers and videos to a specific event in the Event Calendar plug-in.
+* [Music Links](https://github.com/pgmarco11/music-links) - A plug-in to add Music Store Links to your site and music song links to your songs or other post type
 
 #### WordPress Themes
 * [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom Bootstrap WordPress theme was made for a small non-profit theatre.
