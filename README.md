@@ -10,6 +10,7 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 * [Block Additions](https://github.com/pgmarco11/block-additions) - A plugin to add additional blocks for Gutenberg
 * [Event Speakers](https://github.com/pgmarco11/event-speakers-videos) - A plug-in to add speakers and videos to a specific event in the Event Calendar plug-in.
 * [Music Links](https://github.com/pgmarco11/music-links) - A plug-in to add Music Store Links to your site and music song links to your songs or other post type
+* [Show Manager](https://github.com/pgmarco11/show-manager) - A plug-in to manage shows and events with a custom post type, taxonomies, and shortcodes.
 
 #### WordPress Themes
 * [Arctic Playhouse Theatre](https://github.com/pgmarco11/themes/tree/master/Arcticplayhouse). - This custom Bootstrap WordPress theme was made for a small non-profit theatre.
