@@ -20,9 +20,9 @@ Just a guy who enjoys coding, with interests in React, WordPress, Javascript and
 
 #### React Apps
 
-* [Crypto Portfolio App](https://github.com/pgmarco11/crypto-portoflio-app) - An app to keep track of your portfolio value, provide technical analysis of coins, and provide crypto news. It retrieves various API data to analysis coins, a work in progress.
+* [Crypto Strategy Hub](https://github.com/pgmarco11/crypto-strategy-hub-api) - A React App that keeps track of your portfolio values and each crypto assets, and provides analysis of each crpyto asset, to evaluate them.
 * [Robofriends](https://github.com/pgmarco11/robofriends) - Example react app that retrieves API data and filters the results on search
 
 #### Node APIs
 
-* [Crypto Portfolio API](https://github.com/pgmarco11/crypto-portfolio-api) - A node development API for the crypto portfolio that uses Express to read/write json 
+* [Crypto Strategy Hub API](https://github.com/pgmarco11/crypto-strategy-hub-api) - A node development API for the crypto portfolio that uses Express.js 
